@@ -10,9 +10,7 @@ Skills: HTML/CSS/JAVASCRİPT/NODE.JS
 - 📫 How to reach me: tayfun_akturk24@hotmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tayfunakturkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tayfunakturkk//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tayfunakturkk//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/tayfunakturk)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunakturkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/https://github.com/tayfunakturkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tayfunakturkk//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/tayfunakturkk//)  [<img src=class="fab fa-twitter" alt='twitter' height='60'>](https://twitter.com/https://twitter.com/tayfunakturk)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunakturkk)](https://github.com/anuraghazra/github-readme-stats)
