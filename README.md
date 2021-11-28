@@ -15,10 +15,9 @@ Skills: HTML/CSS/JAVASCRİPT/NODE.JS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunakturkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tayfunakturkk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunakturkk)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tayfunakturkk&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunakturkk)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/tayfunakturkk)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tayfunakturkk)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/tayfunakturkk)
