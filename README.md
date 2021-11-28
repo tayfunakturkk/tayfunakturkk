@@ -18,5 +18,4 @@ Skills: HTML/CSS/JAVASCRİPT/NODE.JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunakturkk)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tayfunakturkk)  
 
