@@ -3,7 +3,7 @@
 
 I am Tayfun AKTÜRK .I graduated from Bilgi University Civil Engineering Department in 2019.I want to advance in software career so I am trying to improve my skills in online.
 
-Skills: HTML/CSS/JAVASCRİPT/NODE.JS
+Skills: HTML/CSS/JAVASCRİPT/REACT
 
 - 🌱 I’m currently learning Javascript,React and Node.js 
 - 📫 How to reach me: tayfun_akturk24@hotmail.com 
