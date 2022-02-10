@@ -1,5 +1,5 @@
 ### Hi there 👋, Tayfun Aktürk
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQE3wUl475qYAw/profile-displaybackgroundimage-shrink_350_1400/0/1637088671312?e=1643846400&v=beta&t=WysBsxYeCSCYFVt0gyhbH13rj6XF2qHJZmTaW102X3E)
+![I am GitHub Readme Generator's creator] (https://media-exp1.licdn.com/dms/image/C4D16AQE3wUl475qYAw/profile-displaybackgroundimage-shrink_350_1400/0/1637088671312?e=1643846400&v=beta&t=WysBsxYeCSCYFVt0gyhbH13rj6XF2qHJZmTaW102X3E)
 
 I am Tayfun AKTÜRK .I graduated from Bilgi University Civil Engineering Department in 2019.I want to advance in software career so I am trying to improve my skills in online.
 
